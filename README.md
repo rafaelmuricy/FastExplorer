@@ -2,6 +2,12 @@
 
 Windows explorer kinda sucks right now, so I decided to make my own. Just a hobby project
 
+## Roadmap
+0. Add all necessary functionalities to get to version 1.0.0
+1. Make it cross platform
+2. Make it responsive
+3. General improvements
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
